@@ -215,18 +215,8 @@ hash = "1df0640a26bbbcb472bea3b915bfb96289d09f09e6be95c9a1b0423aff9c85e3"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "3c1fb3f44f84303e6d54cc1b99ac88c4982ab66962a95234190d78595af2a6ec"
-metafile = true
-
-[[files]]
 file = "mods/create-bitterballen.pw.toml"
 hash = "f1903f56b490b1cf3c87ec06bfb5d64e8f4fadfc03997fa393c3c6caaeab0f6a"
-metafile = true
-
-[[files]]
-file = "mods/create-cobblestone.pw.toml"
-hash = "ef236a8fca9605c7ff10b01f85599518dd1d726d92811e918dbb7b209e96c363"
 metafile = true
 
 [[files]]
@@ -242,16 +232,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
-metafile = true
-
-[[files]]
-file = "mods/create-deepfried.pw.toml"
-hash = "ffc0f03efe91698f6ace91d49df3c9e99e4fcf0c46bef9fa48be73962d58e6aa"
-metafile = true
-
-[[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "80c5ee4c23d552b939a151d7f694c3d046792dc45ff6dd0dbfbc88d1a2ba77a7"
 metafile = true
 
 [[files]]
@@ -897,11 +877,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
-metafile = true
-
-[[files]]
-file = "mods/paginatedadvancements.pw.toml"
-hash = "1dbd3b2969118cf3bf47efd9eac2838abb815efce4d33ea47091f20b42ebfd24"
 metafile = true
 
 [[files]]
