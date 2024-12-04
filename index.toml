@@ -175,11 +175,6 @@ hash = "0ddc386e8216df00c0f15e3c6f89e4b295e90722f4cb3fe09baa47e733045727"
 metafile = true
 
 [[files]]
-file = "mods/common-spawn-protection.pw.toml"
-hash = "b6cca7eca46a982177957d636524079f1a75f5542945d17a3fa03362ad43976d"
-metafile = true
-
-[[files]]
 file = "mods/conjuring.pw.toml"
 hash = "caedf5716eb745a7d424abec987c56369f7cc8c3fb3fab042b0a3e47cffdf376"
 metafile = true
