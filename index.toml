@@ -260,11 +260,6 @@ hash = "05e9862287954ca4ff2f1a4b160f73ee43ea3573d90919de9a4202d54da93adb"
 metafile = true
 
 [[files]]
-file = "mods/create-origins.pw.toml"
-hash = "40617aab11102007016234c3936874892d4a1a9586426173467df5d81c842a82"
-metafile = true
-
-[[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
 hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
