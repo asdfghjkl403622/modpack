@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "e948385136e0f372f4a8b35f04221b4cc5e3786ce498fc321a394ad1258dc032"
+hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
@@ -575,11 +575,6 @@ hash = "7ad59c181decf0d0f47c827354989ecea02965cf22dc795cd5bd286ed466937b"
 metafile = true
 
 [[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "8619be4a2d5da2deff6cee6ebda356c1a7fdf3a36d8b58d31cd6ddd5b1649ca1"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
 metafile = true
@@ -847,11 +842,6 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "7c0f3fe405636e29bc5c72ca8c7df5edd29ec5ea005af68cac65d61fc7b60688"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "806c1f0bc853212112b6d25b955cd163d1e398500b25344b19f9debea2ad3487"
 metafile = true
 
 [[files]]
