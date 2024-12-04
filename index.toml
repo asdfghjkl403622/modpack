@@ -965,11 +965,6 @@ hash = "95dc1c49d6f94a6484e3c3688fa062fed91b323aa4cc088cc2748ca0dd43a7da"
 metafile = true
 
 [[files]]
-file = "mods/reworked-sleep-to-night.pw.toml"
-hash = "dc48eda6c869e9349354d2a1b3a6214481f9afabd2e8c07de512b31bb2f7da25"
-metafile = true
-
-[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "9cc9633e5617b3b83f2aaa0d2206948e5d69d0dc7ae500406a317be958ac65c3"
 metafile = true
