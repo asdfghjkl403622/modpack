@@ -1,0 +1,13 @@
+name = "Stormfest"
+filename = "stormfest-v2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DKknxXqy/versions/D11e1W1Z/stormfest-v2.0.0.jar"
+hash-format = "sha512"
+hash = "125f4c62e0e25497101c24e0d3a17d2a5907f6b1113c4184b282e1b3803268f9087a5e7dc644569251cd600702cd070aa1a7d588ebe2b9aa743b80bad73fd95c"
+
+[update]
+[update.modrinth]
+mod-id = "DKknxXqy"
+version = "D11e1W1Z"

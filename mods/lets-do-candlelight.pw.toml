@@ -1,0 +1,13 @@
+name = "Legacy: [Let's Do] Candlelight"
+filename = "letsdo-candlelight-fabric-1.2.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mPND0Adp/versions/vhHARmTB/letsdo-candlelight-fabric-1.2.13.jar"
+hash-format = "sha512"
+hash = "70a563faeafd965e3f457b3bfdeb8494ad05781eb5e951952c7e71cc1f5a1f10fc9a072282d8806de1c8af9fd1eccf9dac312978a7949fcdbd01d24c59718ee0"
+
+[update]
+[update.modrinth]
+mod-id = "mPND0Adp"
+version = "vhHARmTB"

@@ -1,0 +1,13 @@
+name = "REI Integrations (RE2)"
+filename = "rei-integrations-1.20.1-fabric-1.0.0-alpha.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dMwUKI3J/versions/IXSCriRw/rei-integrations-1.20.1-fabric-1.0.0-alpha.3.jar"
+hash-format = "sha512"
+hash = "f147ba2c3580a39de78f1aa734fc9bbbba1ea7d78cfe26c9294775b9221b15658228bb5d5d25851e1b656bbd5add483a42fe515c474061a7a87887c4c70a2218"
+
+[update]
+[update.modrinth]
+mod-id = "dMwUKI3J"
+version = "IXSCriRw"
