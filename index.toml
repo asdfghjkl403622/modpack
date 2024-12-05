@@ -455,11 +455,6 @@ hash = "0673fc42b2d2fe78cc60c8fbc2a51a731a73404bde3a11f91d65bd234d59ff91"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
-metafile = true
-
-[[files]]
 file = "mods/gamemenuremovegfarb.pw.toml"
 hash = "7ba1ee17ae84573c42962307ddca83c8874f9d6f728a5a3937499c56517d97c7"
 metafile = true
@@ -967,11 +962,6 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "a47d32bc04a461351608608f34543b818019ff928102422078f00d23b7a14fae"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
 metafile = true
 
 [[files]]
