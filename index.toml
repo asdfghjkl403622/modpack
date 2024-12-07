@@ -209,11 +209,6 @@ hash = "829ac69252e8ed9049acc597663c07165ff8c9b54ed2789b3b408fe361c0c401"
 metafile = true
 
 [[files]]
-file = "mods/couplings.pw.toml"
-hash = "766447e84d20e5376d9f72392880120b41c708df9988612f92a36826d1536c23"
-metafile = true
-
-[[files]]
 file = "mods/create-air-fabric.pw.toml"
 hash = "1df0640a26bbbcb472bea3b915bfb96289d09f09e6be95c9a1b0423aff9c85e3"
 metafile = true
