@@ -604,6 +604,11 @@ hash = "4821c39ddc42dec010907e83f3bac7f3c1b8996e152270dce2363066494b2046"
 metafile = true
 
 [[files]]
+file = "mods/keybindsgalore-1.20.x-(hvb007).pw.toml"
+hash = "87041ea24ced648d6b1fcdead2e3401a5be3182e8b432dc40309fac4e498ab2c"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
 metafile = true
