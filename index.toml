@@ -194,6 +194,11 @@ hash = "9267bd5b2e1315c3cdac40e118e006c0c436ddbbc07e25e124eccc442d2721ce"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "ac7153ccd646c14f801c2fe70c50eec5633db769ff1837f5ae00f45ff78a16e4"
 metafile = true
@@ -604,11 +609,6 @@ hash = "4821c39ddc42dec010907e83f3bac7f3c1b8996e152270dce2363066494b2046"
 metafile = true
 
 [[files]]
-file = "mods/keybindsgalore-1.20.x-(hvb007).pw.toml"
-hash = "87041ea24ced648d6b1fcdead2e3401a5be3182e8b432dc40309fac4e498ab2c"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
 metafile = true
@@ -981,6 +981,11 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "a47d32bc04a461351608608f34543b818019ff928102422078f00d23b7a14fae"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
