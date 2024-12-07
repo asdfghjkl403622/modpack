@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
+file = "mods/Spectrum-dev.toml"
+hash = "a98bfd266edcab56c143c8a8c5e5067ee362ce95484e8d12ba647a5cc839e912"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "0743031d2dbaebdf7e3c18cd1ef493a40c8b48ce534342f48e4764c49ad9ff4f"
 metafile = true
@@ -1015,6 +1019,10 @@ hash = "84278fdbdb9345a1fe943b4b62437c2f3b17b489c4edfa078b4d0f71d16e5831"
 metafile = true
 
 [[files]]
+file = "mods/spectrum-1.8.2.jar"
+hash = "1c1923a833041909e705cdbbdb77d98591f9e2ea0e5798243dcf6b17c11785b1"
+
+[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "8521f339c1c3b016d1751671e9cded0eeb8fb229845c5aa8c101802f18511903"
 metafile = true
@@ -1188,3 +1196,7 @@ metafile = true
 file = "resourcepacks/artisanal-default.pw.toml"
 hash = "ab543db11e98115264e421f462f0cc4cbf7ad7f3386342ba2d6131432e5cab52"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "92531a66af81435220f797d1bb93ef88aacc3d6de8de03a6275e3bcef960171a"
