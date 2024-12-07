@@ -1,12 +1,12 @@
 name = "consumePack"
 author = "consume"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6a94606f44926eff8633f5f260c347d9314f0bc8f7486a65af88c515176e94b5"
+hash = "ebd6ef0b057074767f6e232f2662e2651cb4c17ea33c3a43c622da4a63e39dfd"
 
 [versions]
 fabric = "0.16.9"
