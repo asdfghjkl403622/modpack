@@ -975,6 +975,11 @@ hash = "a47d32bc04a461351608608f34543b818019ff928102422078f00d23b7a14fae"
 metafile = true
 
 [[files]]
+file = "mods/shuttfup.pw.toml"
+hash = "2584c499a1864a2ff5dcf6d7c31589d025861a75fe276a20f87a10ac7c496d11"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
 metafile = true
