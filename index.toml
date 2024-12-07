@@ -839,6 +839,14 @@ hash = "8c6d91636b0b3195961f3de2c14b5095e321fb8198687dad7053f9d222613021"
 metafile = true
 
 [[files]]
+file = "mods/nightconfig-core.toml"
+hash = "3dc4e031743a08fd2b0df25969f734eba9f1ea23079bd73a892fb6ec542c8dc2"
+
+[[files]]
+file = "mods/nightconfig-toml.toml"
+hash = "85131f2f88db29fd5d3ab43480cb35a7ad00a4e1fd5bedf250544a3809a10a3a"
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true

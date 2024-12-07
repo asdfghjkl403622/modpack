@@ -1,0 +1,11 @@
+name = "NightConfig-core"
+filename = "core-3.8.1.jar"
+side = "both"
+
+[download]
+url = "https://repo1.maven.org/maven2/com/electronwill/night-config/core/3.8.1/core-3.8.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "831144d6c417671360ed240c4ebf51147b8b54f2df126f08f71835bdcda3a1f3"

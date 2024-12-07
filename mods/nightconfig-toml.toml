@@ -1,0 +1,11 @@
+name = "NightConfig-toml"
+filename = "toml-3.8.1.jar"
+side = "both"
+
+[download]
+url = "https://repo1.maven.org/maven2/com/electronwill/night-config/toml/3.8.1/toml-3.8.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3c782b62bc6a1cc49967696a475f10f709ad385784cd9bb4ec882350cc4efbeb"
