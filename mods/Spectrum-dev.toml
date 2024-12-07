@@ -1,0 +1,9 @@
+name = "Spectrum"
+filename = "spectrum-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/asdfghjkl403622/modpack/raw/refs/heads/main/mods/spectrum-1.8.2.jar"
+
+hash-format = "sha256"
+hash = "1c1923a833041909e705cdbbdb77d98591f9e2ea0e5798243dcf6b17c11785b1"
