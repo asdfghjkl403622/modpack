@@ -834,6 +834,11 @@ hash = "e12567f00765136329ad5edcfcf826c7cc47f2e780c7a12083675887f6d654b6"
 metafile = true
 
 [[files]]
+file = "mods/night-config-fixes.pw.toml"
+hash = "8c6d91636b0b3195961f3de2c14b5095e321fb8198687dad7053f9d222613021"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
