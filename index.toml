@@ -897,6 +897,11 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "528cb7471ec78c57d554549b39cf13d41269a910e911404d7bc9a29042dd3554"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
@@ -919,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-groups.pw.toml"
+hash = "43c15115aa3a05912a943f022bb850e72931fe8f4e01c005181dc99a673cb527"
 metafile = true
 
 [[files]]
@@ -1004,11 +1014,6 @@ metafile = true
 [[files]]
 file = "mods/shuttfup.pw.toml"
 hash = "2584c499a1864a2ff5dcf6d7c31589d025861a75fe276a20f87a10ac7c496d11"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
 metafile = true
 
 [[files]]
