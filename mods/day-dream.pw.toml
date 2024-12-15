@@ -1,0 +1,13 @@
+name = "Day Dream"
+filename = "day-dream-1.0.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FKi0XGBk/versions/toGK2obm/day-dream-1.0.8.jar"
+hash-format = "sha512"
+hash = "746be929a5b2b47aac1a1f76a61b694dac392c7a42a0a25218f082d996b071e2b24150741cc011050cc0265c9d9d918ced00f4282eb8cb97ea79e2ef52afc91a"
+
+[update]
+[update.modrinth]
+mod-id = "FKi0XGBk"
+version = "toGK2obm"

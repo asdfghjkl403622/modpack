@@ -1,0 +1,13 @@
+name = "Fullbright"
+filename = "1.19-fullbright-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VyxkIxCd/versions/RLupBIjL/1.19-fullbright-1.0.2.jar"
+hash-format = "sha512"
+hash = "943e71002bfbbd325bbe60dce367c8ba9300ae16e504fd86a56b97180b98289152097c1c2af0019f31c973e50aabae835aef9f5d5b303a8625a34f81223cd3cf"
+
+[update]
+[update.modrinth]
+mod-id = "VyxkIxCd"
+version = "RLupBIjL"

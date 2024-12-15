@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/camerapture.pw.toml"
-hash = "de383fe0c1c903e4f257b0750b943f1c0c66c59e6e8735e5b1ae8a2d4b6a5f9e"
+hash = "8caa833704ab642c2dc8a32b46188b2d695a512a47be96f221f05708f328227c"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "bc8af5d5d2aae78e4df7bad058686b7aa357bc227ac6a6126df94d5592bae165"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "f93b058ddd383738bb83cf93623f462ae7c40b0618fbe8fd37a221fe35cb93a8"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
 
 [[files]]
@@ -306,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "f4fde077bf201fbc588de6ec081d10171101f3176ec9d85fa35b86aae42c241c"
+metafile = true
+
+[[files]]
+file = "mods/day-dream.pw.toml"
+hash = "b0fb78999d95c62e74a20da7159eabf565c9aef9146a8feb6ae92fd27fdc254f"
 metafile = true
 
 [[files]]
@@ -375,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cbc6ac7cd925b77d81d59f8f56a8d7bfdf5327570d9778b597760d61d8156e43"
+hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
 metafile = true
 
 [[files]]
@@ -476,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
+metafile = true
+
+[[files]]
+file = "mods/fullbright.pw.toml"
+hash = "c78a511faef016c4e23eb7a3bd3bb595f45c10d1c5f30911eb59a22417464407"
 metafile = true
 
 [[files]]
@@ -610,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "4821c39ddc42dec010907e83f3bac7f3c1b8996e152270dce2363066494b2046"
+hash = "fdd5bb8db6166ec641236cffa0a6a098387ecc6921474ebc56225ca1704b3de9"
 metafile = true
 
 [[files]]
@@ -620,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "81ad81d5109957c587c35b160eebbb6304218b8a153f1ab9ec6095fc22396d2d"
+hash = "4605b060a4451e17bb75788be82cf1efb0622957278697287baea7e6f17ae6e7"
 metafile = true
 
 [[files]]
@@ -660,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "e9aabc3f7f33eb0fd1b31ad33e188feb1a65dce5531b141fa988ec9fbade0146"
+hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
 metafile = true
 
 [[files]]
@@ -715,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "47328b5542338124e90b0d5b4ec41cc2e53d68a735a835cf1f72ad0f5cccd08f"
+hash = "93d9e9fc1f240892eed9ab8ddea01261fda6273cbb5370a4486fa59f5144cd24"
 metafile = true
 
 [[files]]
@@ -730,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d3ebe8e69a65f1193d969d9ee9994b8c61a8246861063f9663ff5ebe2f33792c"
+hash = "e2ebf7eefe0119002329c02a7121e262821b0f6d9d6e164f818b07aeeec1c396"
 metafile = true
 
 [[files]]
@@ -750,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9a629ad1013e2ac5e2e96744ddd257607b084bbc33a0e434e6c0feab48814642"
+hash = "aa962904e41a1ab65355361653ccd8f6a67a33bcd3f5edb0aba16eacf9d59a8c"
 metafile = true
 
 [[files]]
@@ -766,6 +776,11 @@ metafile = true
 [[files]]
 file = "mods/more-music-discs.pw.toml"
 hash = "b0a72705658db57e03220db3b29e316c550abe3fdb5ac6cceb8aaf2e1c0c1d47"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "4e4d52b9e85c56a0d8327a684e53ece3012664eafc1dde096831a6603a0ad931"
 metafile = true
 
 [[files]]
@@ -820,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "d891a989faa0797768df9f759a3b9ce18035cfb3f7ee84fd439ce0aa2e3e0a39"
+hash = "34b6cb519119704663b52c1c6038b8bd338cf3e7bef25b52fc1915aa736fff6a"
 metafile = true
 
 [[files]]
@@ -848,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "c901bd455cdac9474755a894c39201d27fe8f87e3a3c16406afea950e068a476"
+hash = "928f468ee559de65f53d3758c1cd3f98ef2e0a7a9aa360355ef5114f565606cf"
 metafile = true
 
 [[files]]
@@ -858,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "18219c5c8b3b4dd3835f382d81c854deab5c28ab27da96b89da0880f8d3830a5"
+hash = "9d980ecbadf85393176fc2f3bbe0ab8929e12862e65c189c8098c947e5b7f232"
 metafile = true
 
 [[files]]
@@ -927,8 +942,18 @@ hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-broadcast.pw.toml"
+hash = "9b445fae6ae0673476f38c4385de592575138d2894eb47d927d6a92396ab7435"
+metafile = true
+
+[[files]]
 file = "mods/pv-addon-groups.pw.toml"
 hash = "43c15115aa3a05912a943f022bb850e72931fe8f4e01c005181dc99a673cb527"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-priority.pw.toml"
+hash = "81e6c249fd91f70223bed77b5cb9fc1ec7279fbbeabf8214eeece68b1d9e4b5f"
 metafile = true
 
 [[files]]
@@ -1049,6 +1074,11 @@ metafile = true
 [[files]]
 file = "mods/spectrum-1.8.2.jar"
 hash = "1c1923a833041909e705cdbbdb77d98591f9e2ea0e5798243dcf6b17c11785b1"
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "67b7128420433aa7c34cd4052b7ee98884b3a97dcd2811006fa01f8ecd05b9ae"
+metafile = true
 
 [[files]]
 file = "mods/stoneworks.pw.toml"
