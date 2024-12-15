@@ -779,11 +779,6 @@ hash = "b0a72705658db57e03220db3b29e316c550abe3fdb5ac6cceb8aaf2e1c0c1d47"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "4e4d52b9e85c56a0d8327a684e53ece3012664eafc1dde096831a6603a0ad931"
-metafile = true
-
-[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "3dc86c0b4d31199f6f8579b8460686201ce8b9c87e1be5afaf50be9995add1e0"
 metafile = true
