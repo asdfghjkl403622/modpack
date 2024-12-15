@@ -1017,6 +1017,11 @@ hash = "77403277f00e432aed26bf311388fe78eedd1298c01bcfed641750d597597dd3"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "83164a6af3923e28cadf9d404f059bf74aa4f0842fc1ca0f6e7cf1e686044875"
 metafile = true
