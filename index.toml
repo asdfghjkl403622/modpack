@@ -852,11 +852,6 @@ hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
-file = "mods/numismatics.pw.toml"
-hash = "f404b8f2227c496972da6647710a5691acbbd0f15e1951fc7b225970bb1b4da2"
-metafile = true
-
-[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "eff75aaa788bf041f3767fb0115a0d9fbfc9d75d2464860c5b47674dfc79178e"
 metafile = true
