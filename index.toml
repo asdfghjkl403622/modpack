@@ -314,6 +314,11 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
+file = "mods/deimos.pw.toml"
+hash = "a7cb24330b9a2f1c6e167b6b54f358cf8d60436e2bd75bb708b3652f1a9dbd78"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "076d114e25526f50fac7c7c9a6b2cf2bb19b51c7e5f42db51f6d62e603582e85"
 metafile = true
