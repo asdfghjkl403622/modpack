@@ -1,13 +1,13 @@
 name = "Mythic Charms"
-filename = "mythic_charms-1.2.2.jar"
+filename = "mythic_charms-1.3.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/x9tvGmvR/versions/hA07h7mv/mythic_charms-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/x9tvGmvR/versions/UUvcLOtX/mythic_charms-1.3.3.jar"
 hash-format = "sha512"
-hash = "1e94148d4a8edf87c0799b2c9fa10d3605014093a2501c7765f9793fd13f98a2a658d05979ca9159300d3c44abe827b746154680cb61ddb23a31b0ccaee1e21c"
+hash = "53f89bd5eecb0d84d2c4d7409863313fa91f6d1d2a5d332211bc2768bc8dc8ee44335f01f49682fea3d1596980d942bde165fae7bf2c9a24ffe4b39502e05b78"
 
 [update]
 [update.modrinth]
 mod-id = "x9tvGmvR"
-version = "hA07h7mv"
+version = "UUvcLOtX"

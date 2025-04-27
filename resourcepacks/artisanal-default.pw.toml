@@ -1,13 +1,13 @@
 name = "Artisanal Default"
-filename = "ArtisanalDefault_v0.8.1.zip"
+filename = "ArtisanalDefault_v0.9.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2LvOiVg1/versions/UQgcWsT5/ArtisanalDefault_v0.8.1.zip"
+url = "https://cdn.modrinth.com/data/2LvOiVg1/versions/OwGXIyuS/ArtisanalDefault_v0.9.0.zip"
 hash-format = "sha512"
-hash = "66013d8a3fd820bfbc90c05fef7dff1deccefc31b14d6b593168c2f1c8bf89947092f185c8e7db548247258049f817250e367d4735565265c6b22ca695907112"
+hash = "d32da29b38d67325ea4def27ac83be8dc0c34540a654068ffce1777b97f4044d19cbfe0bc4fce5a9442cc49d6911c86e760382199e2c484aec6dd722eb5e889b"
 
 [update]
 [update.modrinth]
 mod-id = "2LvOiVg1"
-version = "UQgcWsT5"
+version = "OwGXIyuS"

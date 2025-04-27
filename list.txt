@@ -1,0 +1,247 @@
+[EMF] Entity Model Features
+[ETF] Entity Texture Features
+[Let's Do] API
+[Let's Do] Beachparty
+[Let's Do] HerbalBrews
+[Let's Do] Meadow
+Ad Astra
+Adorn
+AdvancementInfo
+AdventureZ
+Alloy Forgery
+Animatica
+AntiGhost
+AppleSkin
+Architectury API
+Artisanal Default
+Athena
+Better Mount HUD
+Better Ping Display [Fabric]
+Better Third Person
+Biome Makeover
+Bookshelf
+Borderless Mining
+Bosses of Mass Destruction
+Botania
+Botany Pots
+Botarium
+Bygone Nether
+Camerapture
+Capes
+Cardinal Components API
+Catwalks LLC
+CC: Tweaked
+Chalk (Fabric)
+Chipped
+CIT Resewn
+Cloth Config API
+Collective
+Combat Roll
+Conjuring
+Continuity
+Controlify
+Controlling
+CorgiLib
+Create Air Fabric
+Create Contraption Terminals
+Create Deco
+Create Fabric
+Create Man of Many Planes
+Create Slice & Dice
+Create: Bells & Whistles
+Create: Bitterballen
+Create: Copycats+
+Create: Crystal Clear
+Create: Dreams & Desires
+Create: Estrogen
+Create: Extended Cogwheels
+Create: Framed
+Create: Garnished
+Create: High Pressure
+Create: Interiors
+Create: Numismatics
+Create: Power Loader (Fabric)
+Create: Steam 'n' Rails
+Create: Structures
+Cristel Lib
+Ctrl Q
+Culinaire
+Cut Through
+Dark Loading Screen
+Dawn API
+Day Dream
+Debugify
+Discord Integration
+Dungeons and Taverns
+Durability Tooltip
+Dynamic FPS
+e4mc
+Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
+Emotecraft
+Enchanted Vertical Slabs
+Enhanced Block Entities
+Entity Culling
+Extended Drawers
+Extra Alchemy
+Extreme sound muffler
+Fabric API
+Fabric Language Kotlin
+FabricSkyboxes
+FabricSkyBoxes Interop
+Fabrishot
+Fadeless
+FakerLib
+FallingTree
+Fast Backups
+Fast IP Ping
+FastQuit
+FerriteCore
+Forge Config API Port
+Framework
+From The Fog
+Fullbright
+Game Menu Remove GFARB
+Geckolib
+Geode+
+Go Fish
+Guarding
+Hearth & Home
+Hephaestus
+Hephaestus Expansion
+HephaestusPlus
+Hold That Chunk
+Iam Music Player
+Idwtialsimmoedm
+ImmediatelyFast
+Immersive Aircraft
+Immersive Melodies
+Immersive Paintings
+Incendium
+Indium
+Inventory Totem
+Iris Shaders
+Iron Chests: Restocked
+Jade 🔍
+JamLib
+JourneyMap
+Joy of Painting
+Just Enough Breeding (JEBr)
+LambDynamicLights
+Language Reload
+Lavender
+Legacy: [Let's Do] Brewery
+Legacy: [Let's Do] Candlelight
+Lithium
+Lootr
+Macaw's Bridges
+Macaw's Doors
+Macaw's Furniture
+Macaw's Paths and Pavings
+Macaw's Roofs
+Macaw's Windows
+Main Menu Credits
+Man of Many Planes
+Memory Leak Fix
+MixinTrace
+MmmMmmMmmMmm
+Mob Captains
+Mod Menu
+Model Gap Fix
+ModernFix
+Modonomicon
+Monsters in the Closet
+Moonlight Lib
+More Chat History
+More Culling
+More Geodes
+More Mob Variants
+More Music Discs
+Mouse Wheelie
+MrCrayfish's Furniture Mod: Refurbished
+Music Maker Mod
+Mutant Monsters
+Mythic Charms
+Mythic Upgrades
+Nature's Compass
+Neat
+Neruina - Ticking Entity Fixer
+Night Auto Config
+No Chat Reports
+No Telemetry
+Not Enough Recipe Book [NERB]
+OctoLib
+Oh The Trees You'll Grow
+OptiGUI
+Origins
+Otyacraft Engine
+oωo (owo-lib)
+Particular ✨
+Patchouli
+Pehkui
+Plasmo Voice
+playerAnimator
+Polymorph
+Promenade
+Puzzle
+Puzzles Lib
+pv-addon-broadcast
+pv-addon-groups
+pv-addon-priority
+Reacharound
+Reese's Sodium Options
+REI Collapsible Entries
+REI Custom Command
+REI Enchantment Info
+REI Integrations (RE2)
+Remove Reloading Screen
+Resourceful Config
+Resourceful Lib
+Revelationary
+RightClickHarvest
+Roughly Enough Items (REI)
+Roughly Enough Professions (REP)
+Roughly Enough Resources
+Seamless Loading Screen 
+Searchables
+Sit
+Snowy Spirit
+Sodium
+Sodium Extra
+spark
+Spawn
+Spectrum
+Stfu
+Stoneworks
+Stormfest
+SuperMartijn642's Config Lib
+Sushi Bar
+TerraBlender
+Things
+Tom's Peripherals
+Tom's Simple Storage Mod
+Tom's Trading Network
+Towns and Towers
+Trade Cycling
+Traveler's Backpack
+Trinkets
+True Ending: Ender Dragon Overhaul
+Underground Jungle
+Universal Ores
+Victus - Custom Hearts
+YetAnotherConfigLib (YACL)
+You're in Grave Danger
+Your Options Shall Be Respected (YOSBR)
+YUNG's API
+YUNG's Better Desert Temples
+YUNG's Better Dungeons
+YUNG's Better End Island
+YUNG's Better Jungle Temples
+YUNG's Better Mineshafts
+YUNG's Better Nether Fortresses
+YUNG's Better Ocean Monuments
+YUNG's Better Strongholds
+YUNG's Better Witch Huts
+YUNG's Bridges
+Zenith
+Zenith Attributes
+Zoomify
