@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
+file = "list.txt"
+hash = "ad2707d292ec2e9d32814c4a767373ab0d67576a463c9014f577cc761a3f4f02"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
