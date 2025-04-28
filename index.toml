@@ -184,11 +184,6 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "022aeef80e4cb5312f81c7b5b0dcb306962c5f530d6397490179382c332978b8"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
@@ -849,6 +844,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "f404b8f2227c496972da6647710a5691acbbd0f15e1951fc7b225970bb1b4da2"
 metafile = true
 
 [[files]]
