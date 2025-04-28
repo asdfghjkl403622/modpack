@@ -49,13 +49,28 @@ hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "d48e943c59dd7c5c0c20b80afd23e18e05385ed79b37e80238f949ec0f5e8d9c"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "884814a2b4276def6b0a2ae55d748115e5da30fb439889923be2baec8b70dbaa"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
 metafile = true
 
 [[files]]
@@ -71,6 +86,16 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
 metafile = true
 
 [[files]]
@@ -199,6 +224,11 @@ hash = "6d227a660261be3af65212f8ac0c5551605f1cad3d7bb2caed017418a6c077c2"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
+metafile = true
+
+[[files]]
 file = "mods/create-air-fabric.pw.toml"
 hash = "1dbc6dd24236373622e6cb58bf80b187c774d745d0f1e4dd63018544c862a584"
 metafile = true
@@ -289,6 +319,11 @@ hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
 metafile = true
 
 [[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "03acd0cbbe9c727d858898084cefbafd8908a8ef2cdd3b93192b442792e33296"
+metafile = true
+
+[[files]]
 file = "mods/dawn.pw.toml"
 hash = "f4fde077bf201fbc588de6ec081d10171101f3176ec9d85fa35b86aae42c241c"
 metafile = true
@@ -356,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/enchanted-vertical-slabs.pw.toml"
 hash = "2b5084e4752f0da8ed460123c8c7dee015b36650e9b6b557175c13546f646d90"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "ce52bbcb7eedb076cac9ebed5ad8b2f6dd6fe735309f2d70702f880ee68b184c"
 metafile = true
 
 [[files]]
@@ -809,6 +849,11 @@ hash = "9d72a2126537efbf86ea08ad99994739765b8402e18cad97835931b478b2c584"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "bddfb122f9892e16a6dbf17de7483dda5be5ac80b133363bcce3ea8122fa5d50"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
@@ -854,6 +899,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "f404b8f2227c496972da6647710a5691acbbd0f15e1951fc7b225970bb1b4da2"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "8f6b83625e06798510048832addd6b1bf709b5d5e7dba438d002fe2dc110981b"
 metafile = true
 
 [[files]]
@@ -1163,6 +1213,11 @@ metafile = true
 [[files]]
 file = "mods/victus.pw.toml"
 hash = "7b21145f12fd0c686b4a65b20b1759bfeeba81f28c5233a0da8c8e34936e13e6"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
 metafile = true
 
 [[files]]
