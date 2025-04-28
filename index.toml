@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
-file = "mods/Spectrum-dev.toml"
-hash = "a98bfd266edcab56c143c8a8c5e5067ee362ce95484e8d12ba647a5cc839e912"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
