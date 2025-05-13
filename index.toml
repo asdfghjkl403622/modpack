@@ -254,6 +254,11 @@ hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "0be9a4a21dec89c60c7952c4ac9c34387bd2714666a90564cf0d2524ea033a1c"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
@@ -696,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
+metafile = true
+
+[[files]]
+file = "mods/load-my-chunks.pw.toml"
+hash = "379f73d0d7e5bd13e8cef9a1fd67d78369a5861fc5c17febaaef490a58cc43f7"
 metafile = true
 
 [[files]]

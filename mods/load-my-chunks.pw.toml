@@ -1,0 +1,13 @@
+name = "Load My Chunks"
+filename = "loadmychunks-1.1.0+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OtbeKtn3/versions/GTLW0TAN/loadmychunks-1.1.0%2B1.20.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "29655ab5e7231d2d04309df4547bb4e303770c78362e9c6f38748313901e9771c0854649b2221f3db36def0c8fb2d81d3cedb34c350442dcde916bf1b7d0a21a"
+
+[update]
+[update.modrinth]
+mod-id = "OtbeKtn3"
+version = "GTLW0TAN"
