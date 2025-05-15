@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
 metafile = true
 
 [[files]]
@@ -71,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "036bd1f08a582f2a38809e3ab65720d5e04d84fcc1c7b8558d6888c319e18527"
 metafile = true
 
 [[files]]
@@ -176,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "4ae224f6aeccd8902728a4f37f398f43fa9ff01b4a0d07ba7593e8555328da72"
 metafile = true
 
 [[files]]
@@ -301,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "1eb94c241ed2d519e5bde972b0a7966041684d75cbfc724c3ec55227830316a1"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "85e95b32e4cc52e7297b02aa41e98f97e467fc59180ce355f71c87e8aa2b770b"
 metafile = true
 
 [[files]]
@@ -440,17 +455,17 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "4463833e3e13d9f45785e0373de67131d74edd799eb0916ac4c363a96bb7e168"
+hash = "46e080c59d2048d41e7c8aeee7cf6d587b1e88d5bce7a480da25b09f810823e4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
+hash = "65200dab9378d27e5e542bdca05ebfc88dbbfc6f347227ea2def432e81691051"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -510,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "0673fc42b2d2fe78cc60c8fbc2a51a731a73404bde3a11f91d65bd234d59ff91"
+hash = "42b0e94254b3fa4eaf4cfe24d67223acfd0c93868f1e9df19d1f8c172b8dbda4"
 metafile = true
 
 [[files]]
@@ -715,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "5cb9996ba53a38d94f86ae72a6106a338b221367ca40b21359e038b4f7ea283c"
+hash = "ace2b470981f950cd04f22d9dbd8e57fc8a3e3059f282f36b720ed02a640da0e"
 metafile = true
 
 [[files]]
@@ -963,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "bd5db8dd260479ff5a9e938c7d3fa5daedef925893afc76798d13f91620e0473"
+hash = "cc6182aa315fe07cd475deee4bbe8c742f299a79138cc966356fb0a4a7d3d141"
 metafile = true
 
 [[files]]
@@ -1197,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "1176112cb6bc5f85b1c28434b11ae2166f0e85a222d563643984d399871cac39"
+hash = "7d57fb63238ee509a20a48bc2c1c067d9cd73226a4ebe39c14548f73200094ea"
 metafile = true
 
 [[files]]
